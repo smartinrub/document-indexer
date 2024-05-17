@@ -1,7 +1,7 @@
-package com.vonage.api.interview.service;
+package com.sergiomartinrubio.documentindexer.service;
 
-import com.vonage.api.interview.repository.DocumentIndexRepository;
-import com.vonage.api.interview.utils.WordsExtractor;
+import com.sergiomartinrubio.documentindexer.repository.DocumentIndexRepository;
+import com.sergiomartinrubio.documentindexer.utils.WordsExtractor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

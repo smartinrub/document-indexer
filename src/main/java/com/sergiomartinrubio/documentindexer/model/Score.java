@@ -1,4 +1,4 @@
-package com.vonage.api.interview.model;
+package com.sergiomartinrubio.documentindexer.model;
 
 public record Score(String words, String fileName, double score) {
 }

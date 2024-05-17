@@ -1,4 +1,4 @@
-package com.vonage.api.interview.repository;
+package com.sergiomartinrubio.documentindexer.repository;
 
 import java.util.Map;
 import java.util.Set;

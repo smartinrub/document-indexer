@@ -1,7 +1,7 @@
-package com.vonage.api.interview.service;
+package com.sergiomartinrubio.documentindexer.service;
 
-import com.vonage.api.interview.repository.DocumentIndexRepository;
-import com.vonage.api.interview.utils.WordsExtractor;
+import com.sergiomartinrubio.documentindexer.repository.DocumentIndexRepository;
+import com.sergiomartinrubio.documentindexer.utils.WordsExtractor;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

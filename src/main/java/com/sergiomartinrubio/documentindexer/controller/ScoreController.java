@@ -1,7 +1,7 @@
-package com.vonage.api.interview.controller;
+package com.sergiomartinrubio.documentindexer.controller;
 
-import com.vonage.api.interview.model.Score;
-import com.vonage.api.interview.service.ScoreService;
+import com.sergiomartinrubio.documentindexer.model.Score;
+import com.sergiomartinrubio.documentindexer.service.ScoreService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

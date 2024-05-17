@@ -1,4 +1,4 @@
-package com.vonage.api.interview.exception;
+package com.sergiomartinrubio.documentindexer.exception;
 
 
 import org.springframework.http.HttpStatus;

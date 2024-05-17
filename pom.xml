@@ -8,11 +8,11 @@
 		<version>3.1.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.vonage.api</groupId>
-	<artifactId>interview</artifactId>
+	<groupId>com.sergiomartinrubio.documentindexer</groupId>
+	<artifactId>document-indexer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>interview</name>
-	<description>Interview project for Vonage API</description>
+	<name>document-indexer</name>
+	<description>Service that provides an API for indexing documents and getting words matching scores</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

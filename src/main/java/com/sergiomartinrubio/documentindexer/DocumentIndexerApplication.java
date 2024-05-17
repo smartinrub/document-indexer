@@ -1,13 +1,13 @@
-package com.vonage.api.interview;
+package com.sergiomartinrubio.documentindexer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InterviewApplication {
+public class DocumentIndexerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InterviewApplication.class, args);
+		SpringApplication.run(DocumentIndexerApplication.class, args);
 	}
 
 }

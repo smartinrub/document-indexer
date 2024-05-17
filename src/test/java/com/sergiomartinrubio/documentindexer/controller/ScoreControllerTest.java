@@ -1,7 +1,7 @@
-package com.vonage.api.interview.controller;
+package com.sergiomartinrubio.documentindexer.controller;
 
-import com.vonage.api.interview.model.Score;
-import com.vonage.api.interview.service.ScoreService;
+import com.sergiomartinrubio.documentindexer.model.Score;
+import com.sergiomartinrubio.documentindexer.service.ScoreService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

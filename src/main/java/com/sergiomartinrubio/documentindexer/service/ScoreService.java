@@ -1,7 +1,7 @@
-package com.vonage.api.interview.service;
+package com.sergiomartinrubio.documentindexer.service;
 
-import com.vonage.api.interview.model.Score;
-import com.vonage.api.interview.repository.DocumentIndexRepository;
+import com.sergiomartinrubio.documentindexer.model.Score;
+import com.sergiomartinrubio.documentindexer.repository.DocumentIndexRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.*;

@@ -1,7 +1,7 @@
-package com.vonage.api.interview.controller;
+package com.sergiomartinrubio.documentindexer.controller;
 
-import com.vonage.api.interview.service.DocumentsIndexService;
-import com.vonage.api.interview.utils.DirectoryVerifier;
+import com.sergiomartinrubio.documentindexer.service.DocumentsIndexService;
+import com.sergiomartinrubio.documentindexer.utils.DirectoryVerifier;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

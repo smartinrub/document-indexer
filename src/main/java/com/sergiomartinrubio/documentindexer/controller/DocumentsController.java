@@ -1,8 +1,8 @@
-package com.vonage.api.interview.controller;
+package com.sergiomartinrubio.documentindexer.controller;
 
-import com.vonage.api.interview.exception.InvalidDirectoryException;
-import com.vonage.api.interview.service.DocumentsIndexService;
-import com.vonage.api.interview.utils.DirectoryVerifier;
+import com.sergiomartinrubio.documentindexer.utils.DirectoryVerifier;
+import com.sergiomartinrubio.documentindexer.exception.InvalidDirectoryException;
+import com.sergiomartinrubio.documentindexer.service.DocumentsIndexService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,7 +1,7 @@
 services:
   service:
-    container_name: interview
-    image: interview
+    container_name: document-indexer
+    image: document-indexer
     ports:
       - "8080:8080"
     depends_on:

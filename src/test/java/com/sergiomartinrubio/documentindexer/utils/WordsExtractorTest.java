@@ -1,4 +1,4 @@
-package com.vonage.api.interview.utils;
+package com.sergiomartinrubio.documentindexer.utils;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.core.io.ClassPathResource;

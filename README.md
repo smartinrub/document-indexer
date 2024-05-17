@@ -21,13 +21,13 @@ The task took me around 3 hours (I stopped after 3 hours as advised)
 2. Build Docker image
 
     ```shell
-    docker build -t interview .
+    docker build -t document-indexer .
     ```
 
    or if you are running docker on ARM:
 
     ```shell
-    docker build --platform linux/amd64 -t interview .
+    docker build --platform linux/amd64 -t document-indexer .
     ```
 
 3. Run docker compose:
@@ -81,4 +81,4 @@ returns:
     "score": 25.0
   }
 ]
-```# vonage-interview
+```
